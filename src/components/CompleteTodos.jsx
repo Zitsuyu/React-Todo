@@ -6,7 +6,7 @@ const style = {
   minHeight: "200px",
   padding: "8px",
   margin: "8px",
-  borderRadius: "8px"
+  borderRadius: "8px",
 };
 
 export const CompleteTodos = (props) => {
